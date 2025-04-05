@@ -9,7 +9,7 @@
 `"/target/blueskyplugin-1.0-SNAPSHOT.jar"`
 
 ## 導入方法
-サーバーを`/stop`で停止し、サーバー内ディレクトリの`/plugins/`にダウンロードした`blueskyplugin-1.0-SNAPSHOT.jar`を入れてサーバーを起動するだけです。
+サーバーのpluginsディレクトリにダウンロードしたblueskyplugin-1.0-SNAPSHOT.jarを入れてサーバーを起動するだけです。
 
 ## ログインする
 
